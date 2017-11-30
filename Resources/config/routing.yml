@@ -1,0 +1,4 @@
+nitrique_clear_cache:
+    path:     /api/cache/clear
+    defaults:
+        _controller: NitriqueClearCacheBundle:ClearCache:index

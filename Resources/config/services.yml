@@ -1,0 +1,4 @@
+services:
+#    nitrique_clear_cache.example:
+#        class: Nitrique\ClearCacheBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

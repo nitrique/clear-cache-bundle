@@ -1,0 +1,11 @@
+{
+    "name": "nitrique/ClearCacheBundle",
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nitrique\\ClearCacheBundle\\": ""
+        }
+    }
+
+}
