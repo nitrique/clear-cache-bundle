@@ -1,5 +1,5 @@
 {
-    "name": "nitrique/ClearCacheBundle",
+    "name": "nitrique/clear-cache-bundle",
     "version": "1.0.0",
     "require": {},
     "autoload": {
