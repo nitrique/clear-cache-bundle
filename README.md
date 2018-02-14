@@ -6,7 +6,7 @@ Installation:
 -------------
 Via composer:
 ```composer
-$ composer require nitrique/ClearCacheBundle
+$ composer require nitrique/clear-cache-bundle:dev-master
 ```
 
 Register bundle in app/AppKernel.php:
